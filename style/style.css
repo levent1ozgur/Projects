@@ -1,16 +1,16 @@
 body {
-  margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: black;
-  overflow: hidden;
+  font-family: "Times New Roman", sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  background-color: #18181b;
+  color: #f1f0ef;
+  text-align: center;
 }
 
-
-canvas { 
-  height: 100vh; 
-  width: 100vw; 
-  display: block;
+h1,
+h2 {
+  color: #991f36;
+}
+a {
+  color: #0077cc;
 }
