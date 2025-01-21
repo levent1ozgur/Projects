@@ -1,1 +1,1 @@
-# Space-Maneuvering-Game
+# simple games that i make with llm's
