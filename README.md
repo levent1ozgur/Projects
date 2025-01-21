@@ -1,1 +1,1 @@
-# simple games that i make with llm's
+## some things that i make with llm's
