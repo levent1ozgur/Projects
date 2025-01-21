@@ -1,16 +1,30 @@
 body {
-  font-family: "Times New Roman", sans-serif;
-  line-height: 1.6;
-  margin: 20px;
   background-color: #18181b;
-  color: #f1f0ef;
+  color: #991f36;
+  font-family: Times New Roman;
+  font-size: 18px;
   text-align: center;
 }
+h1 {
+  color: #f1f0ef;
+}
 
-h1,
-h2 {
-  color: #991f36;
+p {
+  max-width: 700px;
+  margin: 0 auto;
+  margin-top: 50px;
 }
 a {
-  color: #0077cc;
+  color: #991f36;
+  text-decoration: none;
+  border-bottom: 1px solid #991f36;
+}
+a:hover {
+  background-color: #f1f0ef;
+  color: #18181b;
+}
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
