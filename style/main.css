@@ -2,29 +2,24 @@ body {
   background-color: #18181b;
   color: #991f36;
   font-family: Times New Roman;
-  font-size: 18px;
+  font-size: 1.2rem;
   text-align: center;
 }
-h1, h2 {
+h1 {
+  background-color: #991f36;
+}
+h1,
+h2 {
   color: #f1f0ef;
 }
 
-p {
-  max-width: 700px;
-  margin: 0 auto;
-  margin-top: 50px;
-}
 a {
   color: #991f36;
   text-decoration: none;
   border-bottom: 1px solid #991f36;
 }
+
 a:hover {
   background-color: #f1f0ef;
   color: #18181b;
-}
-#footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
 }
