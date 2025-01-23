@@ -5,10 +5,12 @@ body {
   font-size: 1.2rem;
   text-align: center;
 }
+
 h1 {
   background-color: #991f36;
+  color: #18181b;
 }
-h1,
+
 h2 {
   color: #f1f0ef;
 }
