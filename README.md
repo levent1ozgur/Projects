@@ -15,7 +15,7 @@
 *   [Advice Generator](https://codepen.io/levent1ozgur/full/xxeEQEz)
 *   [Random Character Depiction](https://codepen.io/levent1ozgur/full/LEPgzOZ)
 *   [Background Generator](https://codepen.io/levent1ozgur/full/PoyQWLW)
-*   [Attributes Selector for Desired Prompts](https://codepen.io/levent1ozgur/full/raBqPVP)n
+*   [Random Prompt Depiction]([https://codepen.io/levent1ozgur/full/raBqPVP](https://codepen.io/levent1ozgur/full/azoQdKR))
 
 ##### PhotoBlog:
 
