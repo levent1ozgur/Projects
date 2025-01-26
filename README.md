@@ -6,9 +6,9 @@
 
 ##### Games:
 
-*   [Space Maneuvering Game](https://codepen.io/levent1ozgur/full/pvzLEGg)
-*   [Rock Paper Scissors Lizard Spock](https://codepen.io/levent1ozgur/full/LYvRXpB)
-*   [Click Me](https://codepen.io/levent1ozgur/full/GRLNjWN)
+*   [Space Maneuvering Game](https://levent1ozgur.netlify.app/projects/games/space-maneuvering-game)
+*   [Rock Paper Scissors Lizard Spock](https://levent1ozgur.netlify.app/projects/games/rock-paper-scissors-lizard-spock)
+*   [Click Me](https://levent1ozgur.netlify.app/projects/games/click-me)
 
 ##### Generators:
 
