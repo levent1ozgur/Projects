@@ -12,10 +12,10 @@
 
 ##### Generators:
 
-*   [Advice Generator](https://codepen.io/levent1ozgur/full/xxeEQEz)
-*   [Random Character Depiction](https://codepen.io/levent1ozgur/full/LEPgzOZ)
-*   [Random Prompt Depiction](https://codepen.io/levent1ozgur/full/azoQdKR)
-*   [Background Generator](https://codepen.io/levent1ozgur/full/PoyQWLW)
+*   [Advice Generator](https://levent1ozgur.netlify.app/projects/generators/advise-me/)
+*   [Random Character Depiction](https://levent1ozgur.netlify.app/projects/generators/random-character-depiction/)
+*   [Random Prompt Depiction](https://levent1ozgur.netlify.app/projects/generators/random-prompt-depiction/)
+*   [Background Generator](https://levent1ozgur.netlify.app/projects/generators/background-generator/)
 
 
 ##### PhotoBlog:
