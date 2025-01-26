@@ -8,7 +8,9 @@
 
 *   [Space Maneuvering Game](https://levent1ozgur.netlify.app/projects/games/space-maneuvering-game)
 *   [Rock Paper Scissors Lizard Spock](https://levent1ozgur.netlify.app/projects/games/rock-paper-scissors-lizard-spock)
-*   [Click Me](https://levent1ozgur.netlify.app/projects/games/click-me?target=_blank)
+*   [Click Me](https://levent1ozgur.netlify.app/projects/games/click-me)
+*   <a href="https://mysite.netlify.app/projects/games/click-me" target="_blank">Click Me</a>
+
 
 ##### Generators:
 
