@@ -26,4 +26,4 @@ Projects 🛠️
     *   Some small projects I've built.
 
 
-_All of them built with AI, including this website_ 🙃
+_All of them built with AI, including this markdown file_ 🙃
