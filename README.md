@@ -1,26 +1,26 @@
-### Projects:
+Projects 🛠️
 
-##### Tools:
-
-*   [Okutagon](https://okutagon.netlify.app/)
-
-##### Games:
-
-*   [Space Maneuvering Game](https://levent1ozgur.netlify.app/projects/games/space-maneuvering-game)
-*   [Rock Paper Scissors Lizard Spock](https://levent1ozgur.netlify.app/projects/games/rock-paper-scissors-lizard-spock)
-*   [Click Me](https://levent1ozgur.netlify.app/projects/games/click-me)
-
-##### Generators:
-
-*   [Advise Me](https://levent1ozgur.netlify.app/projects/generators/advise-me/)
-*   [Random Character Depiction](https://levent1ozgur.netlify.app/projects/generators/random-character-depiction/)
-*   [Random Prompt Depiction](https://levent1ozgur.netlify.app/projects/generators/random-prompt-depiction/)
-*   [Background Generator](https://levent1ozgur.netlify.app/projects/generators/background-generator/)
-
-
-##### PhotoBlog:
-
-*   [The AI Artisan](https://the-ai-artisan.netlify.app/)
-
-  
-_all of them build with ai. icluding this markdown file_ 🙃
+*   Anime Co-Star Finder
+    
+    *   [Visit Anime Co-Star Finder](https://anime-co-star-finder.netlify.app/)
+    *   Discover anime where your favorite voice actors worked together!
+    
+*   Okutagon
+    
+    *   [Visit Okutagon](https://okutagon.netlify.app/)
+    *   Okutagon is a simple tool that streamlines mass software deployment across multiple platforms. Designed for both personal and enterprise use, our solution simplifies post-formatting system setups through intelligent automation of package managers.
+    
+*   Anime Recommendation Prompter
+    
+    *   [Visit Anime Recommendation Prompter](https://anime-recommendation-prompter.netlify.app/)
+    *   This website helps anime fans generate a structured markdown prompt from their MyAnimeList (MAL) export file. By analyzing completed anime and ratings, it formats the data into a ready-to-use prompt for any preferred large language model (LLM).
+    
+*   The AI Artisan | PhotoBlog
+    
+    *   [Visit The AI Artisan](https://the-ai-artisan.netlify.app/)
+    *   My project showcasing the magic of AI through images.
+    
+*   Small projects on CodePen
+    
+    *   [Visit My CodePen Profile](https://codepen.io/levent1ozgur/)
+    *   Some small projects I've built.
