@@ -26,3 +26,6 @@ Say goodbye to tedious manual setups and let BatchInstallPro streamline your wor
 This tool leverages the power of [Chocolatey package manager for Windows](https://chocolatey.org/how-chocolatey-works "Learn about Chocolatey package manager") and [Homebrew package manager for macOS/Linux](https://brew.sh/ "Homebrew documentation") to ensure reliable, standardized installations.
 
 
+*By Levent Özgür | [GitHub](https://github.com/levent1ozgur) | [Try Here](https://BatchInstallPro.netlify.app/)*  
+
+---
