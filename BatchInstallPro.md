@@ -1,6 +1,7 @@
 **BatchInstallPro: Automated Software Installation for Developers & Power Users**
 
 **Overview**
+
 BatchInstallPro is a simple tool that streamlines mass software deployment across multiple platforms. Designed for both personal and enterprise use, our solution simplifies post-formatting system setups through intelligent automation of package managers.
 
 With just a few clicks, you can:
