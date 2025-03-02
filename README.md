@@ -13,4 +13,4 @@
   
 *   [Small projects on CodePen](https://codepen.io/levent1ozgur/)
       
-_All of them built with AI, including this markdown file_ 🙃
+_All of them built with LLMs, including this markdown file_ 🙃
