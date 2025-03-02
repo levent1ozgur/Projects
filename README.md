@@ -1,8 +1,8 @@
-Projects 🛠️
+**Projects** 🛠️
 
-*   FindMySeiyuu
+*   [FindMySeiyuu](FindMySeiyuu.md)
     
-    *   [Visit FindMySeiyuu](https://FindMySeiyuu.netlify.app/)
+    *   
     *   Discover anime where your favorite voice actors worked together!
     
 *   BatchInstallPro
