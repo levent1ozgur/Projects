@@ -9,7 +9,7 @@
       
 *   [My Anime Prompt](https://github.com/levent1ozgur/MyAnimePrompt)
       
-*   [The AI Artisan](The-AI-Artisan.md)
+*   [The AI Artisan](https://github.com/levent1ozgur/The-AI-Artisan)
   
 *   [Small projects on CodePen](https://codepen.io/levent1ozgur/)
       
