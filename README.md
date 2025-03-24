@@ -3,11 +3,11 @@
 
 *   [Terminal RPG](Terminal-RPG.md)
   
-*   [FindMySeiyuu](FindMySeiyuu.md)
+*   [Find My Seiyuu](FindMySeiyuu.md)
       
-*   [BatchInstallPro](BatchInstallPro.md)
+*   [Batch Install Pro](BatchInstallPro.md)
       
-*   [MyAnimePrompt](MyAnimePrompt.md)
+*   [My Anime Prompt](MyAnimePrompt.md)
       
 *   [The AI Artisan](The-AI-Artisan.md)
   
