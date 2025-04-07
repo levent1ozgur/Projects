@@ -7,7 +7,7 @@
       
 *   [Batch Install Pro](BatchInstallPro.md)
       
-*   [My Anime Prompt](https://github.com/levent1ozgur/MyAnimePrompt)
+*   [My Anime Prompt](https://github.com/MyAnimePrompt)
       
 *   [The AI Artisan](https://github.com/levent1ozgur/The-AI-Artisan)
   
