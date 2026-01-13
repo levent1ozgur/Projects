@@ -2,6 +2,8 @@
 
 A lightweight web tool for selectively downloading files and folders from GitHub repositories without cloning the entire repo.
 
+---
+
 ## Features
 
 - **Selective Downloads**: Choose specific files and folders instead of downloading entire repositories
@@ -13,6 +15,8 @@ A lightweight web tool for selectively downloading files and folders from GitHub
 - **Rate Limit Monitoring**: Real-time display of GitHub API rate limit status
 - **Privacy Focused**: Token stored only in browser memory, never logged or transmitted elsewhere
 
+---
+
 ## Usage
 
 1. Navigate to a GitHub folder in your browser
@@ -22,6 +26,8 @@ A lightweight web tool for selectively downloading files and folders from GitHub
 5. Click "Fetch Files" to load the file tree
 6. Select the files/folders you want
 7. Click "Download Selected" to create and download a ZIP archive
+
+---
 
 ## GitHub Token (Optional)
 
@@ -33,6 +39,8 @@ To increase your rate limit from 60 to 5,000 requests per hour:
 
 **Note**: The token is used only in your browser and sent exclusively to `api.github.com`.
 
+---
+
 ## Technical Details
 
 - Pure HTML/CSS/JavaScript implementation
@@ -41,6 +49,12 @@ To increase your rate limit from 60 to 5,000 requests per hour:
 - ZIP generation via [zip.js](https://gildas-lormeau.github.io/zip.js/)
 - Content Security Policy enforced for security
 
+---
+
 ## Browser Compatibility
 
 Works in all modern browsers that support ES6+ JavaScript and the Fetch API.
+
+---
+
+*By Levent Özgür | [GitHub](https://github.com/levent1ozgur) | [Visit Github Selective Download](https://githubselectivedownload.netlify.app/)*  
