@@ -1,4 +1,4 @@
-**Terminal RPG: A text-based adventure powered by AI**  
+#Terminal RPG: A text-based adventure powered by AI
 
 **Overview**  
 Terminal RPG is a free, browser-based text adventure game that combines classic choose-your-own-adventure gameplay with modern AI. Set in a retro terminal interface, it offers dynamically generated stories across 20+ unique themes—from fantasy kingdoms to dystopian megacities—powered by OpenRouter's AI models. (right now its set gemini-2.0-flash-thinking-exp:free)  
