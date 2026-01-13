@@ -56,7 +56,7 @@ FindMySeiyuu is a free browser tool that reveals anime series where Japanese voi
 - English name search only  
  
 
-*By Levent Özgür | [GitHub](https://github.com/levent1ozgur) | [Visit FindMySeiyuu](https://findmyseiyuu.netlify.app/)*  
+*By Levent Özgür | [GitHub](https://github.com/levent1ozgur) | Visit [FindMySeiyuu](https://findmyseiyuu.netlify.app/)*  
 
 ---
 
