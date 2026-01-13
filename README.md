@@ -1,5 +1,6 @@
 **Projects** 🛠️
 
+*   [Github Selective Download](https://github.com/levent1ozgur/Projects/blob/main/GithubSelectiveDownload.md)
 
 *   [Terminal RPG](Terminal-RPG.md)
   
