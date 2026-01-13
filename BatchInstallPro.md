@@ -59,7 +59,7 @@ BatchInstallPro is a streamlined tool designed to automate software installation
 - Requires an active internet connection for downloading packages  
 - Some advanced configurations might need manual adjustments post-installation
 
-*By Levent Özgür | [GitHub](https://github.com/levent1ozgur) | [Visit BatchInstallPro](https://BatchInstallPro.netlify.app/)*
+*By Levent Özgür | [GitHub](https://github.com/levent1ozgur) | Visit [BatchInstallPro](https://BatchInstallPro.netlify.app/)*
 
 ---
 
