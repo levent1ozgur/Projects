@@ -57,4 +57,4 @@ Works in all modern browsers that support ES6+ JavaScript and the Fetch API.
 
 ---
 
-*By Levent Özgür | [GitHub](https://github.com/levent1ozgur) | [Visit Github Selective Download](https://githubselectivedownload.netlify.app/)*  
+*By Levent Özgür | [GitHub](https://github.com/levent1ozgur) | Visit [Github Selective Download](https://githubselectivedownload.netlify.app/)*  
