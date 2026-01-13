@@ -2,7 +2,7 @@
 
 *   [Github Selective Download](https://github.com/levent1ozgur/projects/blob/main/githubselectivedownload.md)
 
-*   [Terminal RPG](terminalrpg.md)
+*   [Terminal-RPG](terminal-rpg.md)
   
 *   [Find My Seiyuu](findmyseiyuu.md)
       
