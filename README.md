@@ -1,16 +1,16 @@
 **Projects** 🛠️
 
-*   [Github Selective Download](https://github.com/levent1ozgur/Projects/blob/main/GithubSelectiveDownload.md)
+*   [Github Selective Download](https://github.com/levent1ozgur/projects/blob/main/githubselectivedownload.md)
 
-*   [Terminal RPG](Terminal-RPG.md)
+*   [Terminal RPG](terminalrpg.md)
   
-*   [Find My Seiyuu](FindMySeiyuu.md)
+*   [Find My Seiyuu](findmyseiyuu.md)
       
-*   [Batch Install Pro](BatchInstallPro.md)
+*   [Batch Install Pro](batchinstallpro.md)
       
-*   [My Anime Prompt](https://github.com/MyAnimePrompt)
+*   [My Anime Prompt](https://github.com/myanimeprompt)
       
-*   [The AI Artisan](https://github.com/levent1ozgur/The-AI-Artisan)
+*   [The AI Artisan](https://github.com/levent1ozgur/theaiartisan)
   
 *   [Small projects on CodePen](https://codepen.io/levent1ozgur/)
       
